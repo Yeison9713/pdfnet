@@ -1,0 +1,26 @@
+Overview
+You plan to embed PDF functionality into an
+application. But before you dive into the project,
+you must decide: do you go with a more expensive
+commercial PDF SDK — or a lower-cost
+alternative such as an open-source library or
+an open-source wrapper?
+There are non-trivial costs to switching later.
+Developers have to re-learn the new library,
+re-adjust the backend, customize the UI to match
+what users are accustomed to, as well as migrate
+documents, form data, annotations, and more.
+According to market research conducted by Stax
+Inc., the average Net Promoter Score (NPS) for
+the top five PDF SDK vendors is 35%. And 70%
+of customers express interest in switching
+despite the high costs.
+This dissatisfaction implies that picking the right
+PDF SDK is a lot harder than it seems. And to
+help you avoid the same mistakes as past
+implementations, we’ve written this article.
+(We also recently surveyed 57 unique
+organizations that switched from PDF.js to a
+commercial SDK. Read our comprehensive guide
+to PDF.js to learn more.)
+2
